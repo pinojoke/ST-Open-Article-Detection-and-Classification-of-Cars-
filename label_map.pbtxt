@@ -1,0 +1,43 @@
+item {
+    id: 1
+    name: 'BMW 3'
+}
+
+item {
+    id: 2
+    name: 'Citroen C4'
+}
+
+item {
+    id: 3
+    name: 'Peugeot 208'
+}
+
+item {
+    id: 4
+    name: 'Renault Clio'
+}
+
+item {
+    id: 5
+    name: 'Renault Scenic'
+}
+
+item {
+    id: 6
+    name: 'Suzuki Vitara'
+}
+item {
+    id: 7
+    name: 'VW Golf'
+}
+
+item {
+    id: 8
+    name: 'VW Polo'
+}
+
+item {
+    id: 9
+    name: 'Automobil'
+}
